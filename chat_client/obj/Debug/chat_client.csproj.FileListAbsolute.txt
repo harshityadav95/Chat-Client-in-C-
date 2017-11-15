@@ -1,0 +1,10 @@
+H:\Harshit\Code\extreme40\C#\Chat\chat_client\bin\Debug\chat_client.exe.config
+H:\Harshit\Code\extreme40\C#\Chat\chat_client\bin\Debug\chat_client.exe
+H:\Harshit\Code\extreme40\C#\Chat\chat_client\bin\Debug\chat_client.pdb
+H:\Harshit\Code\extreme40\C#\Chat\chat_client\obj\Debug\chat_client.csprojResolveAssemblyReference.cache
+H:\Harshit\Code\extreme40\C#\Chat\chat_client\obj\Debug\chat_client.Form1.resources
+H:\Harshit\Code\extreme40\C#\Chat\chat_client\obj\Debug\chat_client.Properties.Resources.resources
+H:\Harshit\Code\extreme40\C#\Chat\chat_client\obj\Debug\chat_client.csproj.GenerateResource.Cache
+H:\Harshit\Code\extreme40\C#\Chat\chat_client\obj\Debug\chat_client.csproj.CoreCompileInputs.cache
+H:\Harshit\Code\extreme40\C#\Chat\chat_client\obj\Debug\chat_client.exe
+H:\Harshit\Code\extreme40\C#\Chat\chat_client\obj\Debug\chat_client.pdb
